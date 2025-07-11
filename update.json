@@ -1,5 +1,6 @@
 {
   "version": "v5.0",
   "versionCode": 50,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.0/Play.Integrity.Fix_v5.0.zip"
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.0/Play.Integrity.Fix_v5.0.zip",
+  "changelog": "- ✅ Added support for Android 8 to 16\n- 🔐 Integrated secure keybox spoof\n- 🧠 Includes FBI.sh & action.sh automation\n- 🛡️ Zygisk check + anti-tampering system\n- 📦 Cleaner install process & Telegram auto-launch\n- 📌 Developer: @ProfessorRoot_DZ\n- 🔗 Channel: https://t.me/KARNELF"
 }
