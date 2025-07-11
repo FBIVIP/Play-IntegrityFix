@@ -1,6 +1,6 @@
 {
   "version": "v4.6",
   "versionCode": 46,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v4.6/PlayIntegrityFix_v4.6.zip",
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/PlayIntegrityFix_v4.6.zip",
   "changelog": "✅ PlayIntegrityFix v4.6\n• Improved Keybox injection\n• Fixed automatic FBI.sh execution\n• Compatibility with Android 8–16\n• Dev: @ProfessorRoot_DZ\n🔗 Telegram: https://t.me/KARNELF"
 }
