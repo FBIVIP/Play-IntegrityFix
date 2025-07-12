@@ -1,6 +1,8 @@
 {
-  "version": "v5.1",
-  "versionCode": 51,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.1/Play.Integrity.Fix_v5.1.zip",
-  "description": "🔐 Play Integrity Fix v5.1 [KEYBOX] — The ultimate solution for bypassing Google Play Integrity & SafetyNet on rooted Android (8–16). Delivers trusted results with full support for Google Wallet, banking apps & protected games, no root removal or custom ROM required. Safe, stealthy, and customizable.\n\n👨‍💻 Developer: @ProfessorRoot_DZ\n📬 Telegram Channel: t.me/KARNELF"
+  "version": "v5.2",
+  "versionCode": 52,
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.2/Play.Integrity.Fix_v5.2.zip",
+  "changelog": "✅ PlayIntegrityFix updated to v5.2\n🔐 Improved Keybox integration\n🟢 Full Play Integrity Pass\n🏦 Banking apps fully supported\n⚙️ Android 8-16 compatibility\n📡 By @ProfessorRoot_DZ",
+  "github": "https://github.com/FBIVIP/Play-IntegrityFix",
+  "support": "https://t.me/KARNELF"
 }
