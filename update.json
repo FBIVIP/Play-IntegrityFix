@@ -1,8 +1,8 @@
 {
-  "version": "v5.2",
-  "versionCode": 52,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.2/Play.Integrity.Fix_v5.2.zip",
-  "changelog": "✅ PlayIntegrityFix v5.2\n🔐 Enhanced Keybox support\n🟢 Full Play Integrity pass\n🏦 Banking apps working\n⚙️ Android 8–16 supported\n👨‍💻 By @ProfessorRoot_DZ",
+  "version": "v5.3",
+  "versionCode": 53,
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.3/Play.Integrity.Fix_v5.3.zip",
+  "changelog": "✅ v5.3 is now available!\n🔐 Improved Keybox integration\n🟢 Enhanced Play Integrity bypass for Android 8–16\n🏦 Better banking app support\n⚙️ Stability & performance improvements\n👨‍💻 By @ProfessorRoot_DZ",
   "github": "https://github.com/FBIVIP/Play-IntegrityFix",
   "support": "https://t.me/KARNELF"
 }
