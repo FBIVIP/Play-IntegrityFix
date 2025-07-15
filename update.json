@@ -1,8 +1,8 @@
 {
-  "version": "v5.4",
-  "versionCode": 54,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.4/Play.Integrity.Fix_v5.4.zip",
-  "changelog": "✅ v5.4 is now available!\n🔐 Improved Keybox integration and stronger system compatibility\n🟢 Enhanced Play Integrity bypass for Android 8–16\n🟢 MEETS_BASIC_INTEGRITY ✅\n\n🟢 MEETS_DEVICE_INTEGRITY ✅\n\n🔴 MEETS_STRONG_INTEGRITY ❌\n\n⚙️ Performance and stability improvements\n👨‍💻 By @ProfessorRoot_DZ",
+  "version": "v5.6",
+  "versionCode": 56,
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.6/Play.Integrity.Fix_v5.6.zip",
+  "changelog": "✅ v5.6 is now available!\n🔐 Further improved Keybox integration and enhanced system compatibility\n🟢 Improved Play Integrity bypass for Android 8–16\n🟢 MEETS_BASIC_INTEGRITY ✅\n\n🟢 MEETS_DEVICE_INTEGRITY ✅\n\n🔴 MEETS_STRONG_INTEGRITY ❌\n\n⚙️ General performance and stability improvements\n👨‍💻 By @ProfessorRoot_DZ",
   "github": "https://github.com/FBIVIP/Play-IntegrityFix",
   "support": "https://t.me/KARNELF"
 }
