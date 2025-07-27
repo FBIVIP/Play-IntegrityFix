@@ -1,8 +1,8 @@
 {
-  "version": "v5.9",
-  "versionCode": 59,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v5.9/Play.Integrity.Fix_v5.9.zip",
-  "changelog": "✅ v5.9 is now available!\n\n🟢 MEETS_BASIC_INTEGRITY ✅\n\n🟢 MEETS_DEVICE_INTEGRITY ✅\n\n🟢 MEETS_STRONG_INTEGRITY ✅\n\n🚀 Improved spoofing performance and compatibility.\n🛡️ Better detection bypass for banking & secure apps.\n📄 Full changelog and downloads:\nhttps://github.com/FBIVIP/Play-IntegrityFix/releases\n\n👨‍💻 Developer: @ProfessorRoot_DZ\n📬 Channel: https://t.me/KARNELF",
+  "version": "v6.0",
+  "versionCode": 60,
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v6.0/Play.Integrity.Fix_v6.0.zip",
+  "changelog": "✅ v6.0 is now available!\n\n🟢 MEETS_BASIC_INTEGRITY ✅\n\n🟢 MEETS_DEVICE_INTEGRITY ✅\n\n🟢 MEETS_STRONG_INTEGRITY ✅\n\n🚀 Major engine improvements for spoofing.\n🔐 Enhanced root and systemless detection bypass.\n📲 Better support for Android 14 & 15.\n📄 Full changelog and downloads:\nhttps://github.com/FBIVIP/Play-IntegrityFix/releases\n\n👨‍💻 Developer: @ProfessorRoot_DZ\n📬 Channel: https://t.me/KARNELF",
   "github": "https://github.com/FBIVIP/Play-IntegrityFix",
   "support": "https://t.me/FATAH_16"
 }
