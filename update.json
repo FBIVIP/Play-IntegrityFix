@@ -2,7 +2,7 @@
   "version": "v6.1",
   "versionCode": 61,
   "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v6.1/PlayIntegrityFix_v6.1.zip",
-  "changelog": "✅ PlayIntegrityFix v6.1 – Android 16 Support & ReZygisk Update\n\n🟢 MEETS_BASIC_INTEGRITY ✅\n🟢 MEETS_DEVICE_INTEGRITY ✅\n🟢 MEETS_STRONG_INTEGRITY ✅\n\n🔑 Update fingerprint\n📱 Android 16 support\n🌐 WebUI improvement\n🛡️ ReZygisk new modId support\n⚡ Performance & stability optimizations\n\n❗ Note: Different from Inject version\n🚫 No spoofVendingSdk\n🚫 No manual configuration\n\n👨‍💻 Developer: @ProfessorRoot_DZ\n📬 Channel: https://t.me/kernelsu1",
+  "changelog": "✅ PlayIntegrityFix v6.1 – Android 16 Support & ReZygisk Update\n\n🟢 MEETS_BASIC_INTEGRITY ✅ | 🟢 يحقق سلامة أساسية ✅\n🟢 MEETS_DEVICE_INTEGRITY ✅ | 🟢 يحقق سلامة الجهاز ✅\n🟢 MEETS_STRONG_INTEGRITY ✅ | 🟢 يحقق سلامة قوية ✅\n\n🔑 Update fingerprint | 🔑 تحديث البصمة\n📱 Android 16 support | 📱 دعم أندرويد 16\n🌐 WebUI improvement | 🌐 تحسين واجهة الويب\n🛡️ ReZygisk new modId support | 🛡️ دعم معرفات ReZygisk الجديدة\n⚡ Performance & stability optimizations | ⚡ تحسينات في الأداء والثبات\n\n❗ Note: Different from Inject version\n🚫 No spoofVendingSdk\n🚫 No manual configuration\n\n👨‍💻 Developer: @ProfessorRoot_DZ\n📬 Channel: https://t.me/kernelsu1",
   "github": "https://github.com/FBIVIP/Play-IntegrityFix",
   "support": "https://t.me/FATAH_16"
 }
