@@ -1,8 +1,0 @@
-{
-  "version": "v6.1",
-  "versionCode": 61,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v6.1/PlayIntegrityFix_v6.1.zip",
-  "changelog": "PlayIntegrityFix v6.1 released. Android 16 support, new ReZygisk modId, WebUI improvements. Full changelog: https://github.com/FBIVIP/Play-IntegrityFix/releases",
-  "github": "https://github.com/FBIVIP/Play-IntegrityFix",
-  "support": "https://t.me/kernelsu1"
-}
