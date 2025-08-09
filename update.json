@@ -1,8 +1,8 @@
 {
-  "version": "v6.5",
-  "versionCode": 65,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v6.5/PlayIntegrityFix_v6.5.zip",
-  "changelog": "PlayIntegrityFix v6.5 – Advanced Optimization & Android 16 Final Support\n\n🔑 Enhanced Play Integrity spoofing stability\n🛡️ Improved SafetyNet & ReZygisk hook performance\n⚡ Faster and more reliable integrity checks\n📱 Optimized for Android 14, 15, and 16\n🌐 Minor WebUI refinements\n\n🟢 MEETS_BASIC_INTEGRITY ✅\n🟢 MEETS_DEVICE_INTEGRITY ✅\n🟢 MEETS_STRONG_INTEGRITY ✅\n\n🔑 تحسين استقرار تزوير Play Integrity\n🛡️ تحسين أداء SafetyNet و ReZygisk\n⚡ تسريع الفحص وجعله أكثر موثوقية\n📱 تحسين التوافق مع أندرويد 14 و15 و16\n🌐 تحسينات طفيفة على واجهة الويب\n\n📬 القناة: https://t.me/kernelsu1",
+  "version": "v7.3",
+  "versionCode": 73,
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v7.3/PlayIntegrityFix_v7.3.zip",
+  "changelog": "PlayIntegrityFix v7.3 – Advanced Optimization & Android 16 Final Support\n\n🔑 Enhanced Play Integrity spoofing stability\n🛡️ Improved SafetyNet & ReZygisk hook performance\n⚡ Faster and more reliable integrity checks\n📱 Optimized for Android 14, 15, and 16\n🌐 Minor WebUI refinements\n\n🟢 MEETS_BASIC_INTEGRITY ✅\n🟢 MEETS_DEVICE_INTEGRITY ✅\n🟢 MEETS_STRONG_INTEGRITY ✅\n\n🔑 تحسين استقرار تزوير Play Integrity\n🛡️ تحسين أداء SafetyNet و ReZygisk\n⚡ تسريع الفحص وجعله أكثر موثوقية\n📱 تحسين التوافق مع أندرويد 14 و15 و16\n🌐 تحسينات طفيفة على واجهة الويب\n\n📬 القناة: https://t.me/kernelsu1",
   "github": "https://github.com/FBIVIP/Play-IntegrityFix",
   "support": "https://t.me/FATAH_16"
 }
