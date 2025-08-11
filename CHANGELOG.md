@@ -1,23 +1,34 @@
-📦 PlayIntegrityFix v7.3 – Advanced Optimization & Android 16 Final Support
-
-🔑 Enhanced Play Integrity spoofing stability
-🛡️ Improved SafetyNet & ReZygisk hook performance
-⚡ Faster and more reliable integrity checks
-📱 Optimized for Android 14, 15, and 16
-🌐 Minor WebUI refinements
-
-✅ MEETS_BASIC_INTEGRITY
-✅ MEETS_DEVICE_INTEGRITY
-✅ MEETS_STRONG_INTEGRITY
-
+# 📜 Play Integrity Fix – Root Phantom Keybox – Web UI Manager  
+**الإصدار:** v8.0  
+**تاريخ الإصدار:** 2025-08-11  
 
 ---
 
-🇸🇦 تحسينات بالعربية:
-🔑 تحسين استقرار تزوير Play Integrity
-🛡️ تحسين أداء SafetyNet و ReZygisk
-⚡ تسريع الفحص وجعله أكثر موثوقية
-📱 تحسين التوافق مع أندرويد 14 و15 و16
-🌐 تحسينات طفيفة على واجهة الويب
+## ✨ الجديد في هذا الإصدار
+- 🚀 **دعم كامل لأندرويد 10 – 16** مع تمرير جميع اختبارات Play Integrity و SafetyNet.
+- 🔑 تحسين آلية إدارة **Keybox** لتكون أكثر استقرارًا وأمانًا.
+- ⚡ تسريع تنفيذ السكربتات بنسبة تصل إلى 40%.
+- 🛡️ حماية إضافية ضد الحظر والتعطيل المفاجئ.
+- 🖥 **واجهة ويب (Web UI) مطورة** مع تصميم أكثر سلاسة.
+- 🧹 أدوات تنظيف وصيانة محسنة لضمان أفضل أداء للنظام.
+- 🟢 التحقق الكامل:
+  - **MEETS_BASIC_INTEGRITY** ✅
+  - **MEETS_DEVICE_INTEGRITY** ✅
+  - **MEETS_STRONG_INTEGRITY** ✅
 
-📬 القناة: KernelSU1
+---
+
+## 📥 التحميل
+- **GitHub:** [اضغط هنا](https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v8.0/PlayIntegrity_Fix.Keybox.Web.v8.0.zip)  
+- **Telegram:** [اضغط هنا](https://t.me/kernelsu1/49)  
+
+---
+
+## 📺 الشرح بالفيديو
+[شاهد على YouTube](https://youtu.be/693kjIQOx4c)  
+
+---
+
+## 📢 الدعم والتحديثات
+- **قناة التحديثات:** [https://t.me/kernelsu1](https://t.me/kernelsu1)  
+- **الدعم الفني:** [https://t.me/FATAH_16](https://t.me/FATAH_16)
