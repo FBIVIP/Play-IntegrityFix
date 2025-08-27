@@ -4,5 +4,6 @@
   "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v8.2/PlayIntegrityFix_v8.2.zip",
   "changelog": "https://raw.githubusercontent.com/FBIVIP/Play-IntegrityFix/gh-pages/CHANGELOG.md",
   "github": "https://github.com/FBIVIP/Play-IntegrityFix",
-  "support": "https://t.me/ProfessorRoot_DZ"
+  "support": "https://t.me/ProfessorRoot_DZ",
+  "banner": "https://raw.githubusercontent.com/FBIVIP/Play-IntegrityFix/main/banner.png"
 }
