@@ -8,10 +8,10 @@
 
 Link to download the add-on from the site 
 
-Play integrity fix v8.2
+Play integrity fix v8.4
 
 https://github.com/FBIVIP/Play-IntegrityFix/releases
 
 
 
-https://t.me/kernelsu1
+https://t.me/Play_Integrityfix1
