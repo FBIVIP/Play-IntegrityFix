@@ -1,6 +1,6 @@
 🇬🇧 English
 
-v8.8 – Keybox Edition
+v9.0 – Keybox Edition
 ✅ Basic Integrity – Passed
 ✅ Device Integrity – Passed
 🟢 Strong Integrity – Passed ✅
@@ -13,7 +13,7 @@ Verified: Banking apps + Google Wallet (Tap to Pay) work perfectly.
 
 🇸🇦 العربية
 
-v8.8 – إصدار Keybox
+v9.0 – إصدار Keybox
 ✅ Basic Integrity – شغّال
 ✅ Device Integrity – شغّال
 🟢 Strong Integrity – شغّال ✅
