@@ -1,10 +1,10 @@
 
 {
-  "version": "v8.8",
-  "versionCode": 88,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v8.8/PlayIntegrityFix_v8.8.zip",
+  "version": "v9.0",
+  "versionCode": 90,
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v9.0/PlayIntegrityFix_v9.0.zip",
   "changelog": "https://raw.githubusercontent.com/FBIVIP/Play-IntegrityFix/gh-pages/CHANGELOG.md",
   "github": "https://github.com/FBIVIP/Play-IntegrityFix",
-  "support": "https://t.me/fateh7",
+  "support": "https://t.me/fateh7"  https://t.me/ProfessorRoot_DZ   ,
   "banner": "https://raw.githubusercontent.com/FBIVIP/Play-IntegrityFix/main/banner.png"
 }
