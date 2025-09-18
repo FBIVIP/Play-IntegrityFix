@@ -5,8 +5,7 @@ v9.0 – Keybox Edition
 ✅ Device Integrity – Passed
 🟢 Strong Integrity – Passed ✅
 Verified: Banking apps + Google Wallet (Tap to Pay) work perfectly.
-📢 Stay updated: https://t.me/Play_Integrityfix1
-👤 Contact Dev: @fateh7
+📢 Stay updated: https://t.meact Dev:https://t.me/fateh7
 
 
 ---
@@ -19,4 +18,5 @@ v9.0 – إصدار Keybox
 🟢 Strong Integrity – شغّال ✅
 تم التأكيد: تطبيقات البنوك + محفظة Google Wallet (Tap to Pay) تعمل بشكل ممتاز.
 📢 تابع آخر التحديثات: https://t.me/Play_Integrityfix1
-👤 للتواصل مع المطور: @fateh7
+👤 للتواصل مع المطور: https://t.me/fateh7
+👤 للتواصل مع المطور: https://t.me/ProfessorRoot_DZ
