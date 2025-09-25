@@ -1,6 +1,6 @@
 🇬🇧 English
 
-v19.5 – Keybox Edition
+v19.6 – Keybox Edition
 ✅ Basic Integrity – Passed
 ✅ Device Integrity – Passed
 🟢 Strong Integrity – Passed ✅
@@ -24,7 +24,7 @@ https://t.me/ProfessorRoot_DZ
 
 🇸🇦 العربية
 
-v19.5 – إصدار Keybox
+v19.6 – إصدار Keybox
 ✅ Basic Integrity – شغّال
 ✅ Device Integrity – شغّال
 🟢 Strong Integrity – شغّال ✅
