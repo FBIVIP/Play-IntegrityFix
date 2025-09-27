@@ -1,44 +1,42 @@
 🇬🇧 English
 
-v19.6 – Keybox Edition
-✅ Basic Integrity – Passed
-✅ Device Integrity – Passed
-🟢 Strong Integrity – Passed ✅
+PlayIntegrityFix v19.7 – Android 10–16 Support
 
-✔ Verified: Banking apps + Google Wallet (Tap to Pay) work perfectly.
+🟢 MEETS_BASIC_INTEGRITY ✅
+🟢 MEETS_DEVICE_INTEGRITY ✅
+❌ MEETS_STRONG_INTEGRITY ❌
 
-📢 Stay updated on my ONLY official channel:
-👉 https://t.me/keybox_xml
+❗ Note!
+This version is different from the Inject version:
+🚫 No spoofVendingSdk
+🚫 No manual configuration
 
-⚠️ Warning: Any other channel using my name is fake.
+🌐 GitHub website
+🔗 https://github.com/FBIVIP/Play-IntegrityFix/releases
 
-👤 Developer:
+📢 Telegram channel
+🔗 https://t.me/keybox_xml
 
-https://t.me/fateh7
+💡 Our goal is to reach 1K subscribers 🎯
+Support us by sharing and spreading the word 🤝
 
-https://t.me/ProfessorRoot_DZ
+🔗 [ https://t.me/keybox_xml ]
 
+🇸🇦 عربي
 
+PlayIntegrityFix v19.7– دعم من أندرويد 10 إلى 16
 
----
+🟢 يحقق سلامة أساسية ✅
+🟢 يحقق سلامة الجهاز ✅
+❌يحقق سلامة قوية ❌
 
-🇸🇦 العربية
+❗ ملاحظة!
+هذا الإصدار يختلف عن نسخة Inject:
+🚫 لا يحتوي على spoofVendingSdk
+🚫 لا يحتاج إلى إعداد يدوي
 
-v19.6 – إصدار Keybox
-✅ Basic Integrity – شغّال
-✅ Device Integrity – شغّال
-🟢 Strong Integrity – شغّال ✅
+🌐 الموقع (GitHub)
+🔗 https://github.com/FBIVIP/Play-IntegrityFix/releases
 
-✔ تم التأكيد: تطبيقات البنوك + محفظة Google Wallet (Tap to Pay) تعمل بشكل ممتاز.
-
-📢 تابع آخر التحديثات عبر قناتي الوحيدة والرسمية:
-👉 https://t.me/keybox_xml
-
-⚠️ تحذير: أي قناة أخرى تستخدم اسمي فهي مزيفة.
-
-👤 المطوّر:
-
-https://t.me/fateh7
-
-https://t.me/ProfessorRoot_DZ
-
+📢 قناة تيليجرام
+🔗 https://t.me/keybox_xml
