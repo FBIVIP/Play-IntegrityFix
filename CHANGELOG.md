@@ -1,6 +1,6 @@
 🇬🇧 English
 
-PlayIntegrityFix v19.8 – Android 10–16 Support
+PlayIntegrityFix v19.9 – Android 10–16 Support
 
 🟢 MEETS_BASIC_INTEGRITY ✅
 🟢 MEETS_DEVICE_INTEGRITY ✅
@@ -17,14 +17,14 @@ This version is different from the Inject version:
 📢 Telegram channel
 🔗 https://t.me/keybox_xml
 
-💡 Our goal is to reach 2K subscribers 🎯
+💡 Our goal is to reach 4K subscribers 🎯
 Support us by sharing and spreading the word 🤝
 
 🔗 [ https://t.me/keybox_xml ]
 
 🇸🇦 عربي
 
-PlayIntegrityFix v19.8– دعم من أندرويد 10 إلى 16
+PlayIntegrityFix v19.9– دعم من أندرويد 10 إلى 16
 
 🟢 يحقق سلامة أساسية ✅
 🟢 يحقق سلامة الجهاز ✅
