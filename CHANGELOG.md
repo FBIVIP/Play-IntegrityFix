@@ -1,6 +1,6 @@
 name=Play Integrity Fix - Strong Integrity 🔥
-version=v3.4
-versionCode=34
+version=v20.0
+versionCode=200
 author=👑 Fateh7  -ROOT
 description=Advanced Play Integrity fix with Strong Integrity support | Compatible with all Android versions | Enhanced security & performance | Made with @Fateh7❤️ROOT
 banner=✨ Welcome to Play Integrity Fix ✨
