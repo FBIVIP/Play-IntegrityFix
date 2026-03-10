@@ -5,10 +5,10 @@
 I’m the first person to release this addon for free,
 especially now when almost all Telegram channels and developers are inactive 👀🔥
 
-PlayIntegrity-V33.3
+PlayIntegrity-V34.0
 
 Name: Play Integrity Fix – Strong Integrity 🔥
-Version: v33.3
+Version: v34.0
 Author: 👑 Fateh7 – ROOT
 
 Description:
@@ -24,8 +24,6 @@ WhatsApp: +213776717301
 
 🪩 GitHub: https://github.com/FBIVIP/Play-IntegrityFix/releases
 
-⚠️ Note:
-This release is intended for developers and testers.
 It does not include:
 
 🚫 SpoofVendingSdk
