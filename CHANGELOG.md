@@ -5,10 +5,10 @@
 I’m the first person to release this addon for free,
 especially now when almost all Telegram channels and developers are inactive 👀🔥
 
-PlayIntegrity-V35.0
+PlayIntegrity-V37.0
 
 Name: Play Integrity Fix – Strong Integrity 🔥
-Version: v35.0
+Version: v37.0
 Author: 👑 Fateh7 – ROOT
 
 Description:
