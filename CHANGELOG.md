@@ -1,8 +1,8 @@
-🎉 PlayIntegrity 2.0 Released
+🎉 PlayIntegrity 38.0 Released
 
 Hello everyone ❤️
 
-We're excited to announce the release of PlayIntegrity 2.0 🚀
+We're excited to announce the release of PlayIntegrity 38.0 🚀
 
 ✨ What's New
 
@@ -25,6 +25,14 @@ Built with a strong focus on reliability, security, and seamless user experience
 
 🌐 Official Links
 
+📢 Telegram Channel: @keybox_xml
+💬 Telegram Contact: @fateh7
+📱 WhatsApp: +213776717301
+🐙 GitHub: github.com/FBIVIP/Play-IntegrityFix/releases
+
+Thank you for your support ❤️
+
+Fateh7 🔥
 📢 Telegram Channel: @keybox_xml
 💬 Telegram Contact: @fateh7
 📱 WhatsApp: +213776717301
