@@ -1,9 +1,9 @@
 {
-  "version": "v37.0",
-  "versionCode": 370,
-  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v37/PlayIntegrity-v37.0.zip",
+  "version": "v2.0",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/FBIVIP/Play-IntegrityFix/releases/download/v2.0/playintegrityFateh7-release.zip",
   "changelog": "https://raw.githubusercontent.com/FBIVIP/Play-IntegrityFix/gh-pages/CHANGELOG.md",
   "github": "https://github.com/FBIVIP/Play-IntegrityFix",
-  "support": "https://t.me/fateh7 https://t.me/ProfessorRoot_DZ",
+  "support": "https://t.me/fateh7 https://t.me/keybox_xml",
   "banner": "https://raw.githubusercontent.com/FBIVIP/Play-IntegrityFix/main/banner.png"
 }
